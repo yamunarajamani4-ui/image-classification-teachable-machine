@@ -17,7 +17,16 @@ Built an image classification model using Google's Teachable Machine to distingu
 
 ## 🎯 How It Works
 The model uses webcam input to classify images in real-time. It outputs the predicted class with a confidence score.
+## 📸 Screenshots
+![Mobile Detection](mobile-result.png)
+![Bulku Detection](bulku-result.png)
 
+## 🚀 How to Run
+1. Clone this repository
+2. Open the model in Google Teachable Machine (or run the exported Python script)
+3. Enable your webcam
+4. Show an object to the camera
+   
 ## 🔗 Connect
 - LinkedIn: [linkedin.com/in/yamuna-rajamani-a69b333](https://linkedin.com/in/yamuna-rajamani-a69b333)
 - Email: yamunarajamani4@gmail.com
